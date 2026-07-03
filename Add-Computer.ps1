@@ -1,0 +1,1 @@
+Add-Computer -DomainName "contoso.com" -Credential "CONTOSO\Administrator"
